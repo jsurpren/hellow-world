@@ -1,2 +1,6 @@
 # hellow-world
-1st repository
+
+What am I doing, coding?
+
+coding is fun
+
